@@ -3,7 +3,7 @@ import Notiflix from "notiflix";
 import SimpleLightbox from "simplelightbox";
 import "simplelightbox/dist/simple-lightbox.min.css";
 
-const API_KEY = "42285080-c22d5f6a90f49c0ab863c2d8a"; 
+const API_KEY = "42321198-c6ddf71ec6537bf93ac524eb9"; 
 
 async function searchImages(query, page = 1) {
   try {
